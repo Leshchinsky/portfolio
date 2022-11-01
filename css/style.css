@@ -1,3 +1,12 @@
 body{
     background-color: #FBFBFB;
+    color: #445964;
+}
+li {
+    display: inline;
+}
+
+a {
+    color: #445964;
+    font-weight: 700;
 }
