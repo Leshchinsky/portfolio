@@ -16,8 +16,7 @@ main {
 li, 
 a, 
 button,
-.header__text
-{
+.header__text {
     font-family: "Roboto", sans-serif;
 }
 
@@ -71,6 +70,35 @@ button:hover {
     background-color: rgb(25, 183, 102);
 }
 
+.content__welcome-message {
+    /* position: absolute; */
+    width: 545px;
+    height: 240px;
+    /* left: 251px;
+    top: 330px; */
+}
+
+h1 {
+    font-family: Roboto;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 84px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+h3 {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.content__image {
+    height: 300px;
+}
 /* li {
     display: inline;
     height: 40px;
