@@ -1,12 +1,20 @@
 body{
     background-color: #FBFBFB;
     color: #445964;
+    height: 100%;
 }
 li {
     display: inline;
+    height: 40px;
+    width: 60px;
+    align-items: center;
 }
 
 a {
     color: #445964;
     font-weight: 700;
+}
+
+header {
+    height: 140px;
 }
